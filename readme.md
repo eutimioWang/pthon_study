@@ -1,7 +1,7 @@
 #my python learning journey
 ##introduction
-I am **decidated** to learn python and AI.
-This repository record my daily progress and **achievement**.
+I am **dedicated** to learn python and AI.
+This repository records my daily progress and **achievement**.
 ##syllabus 
 -[x] Git bbasic commands
 
